@@ -1,0 +1,6 @@
+The data is availaibe in a compressed folder here:
+
+https://drive.google.com/uc?export=download&id=1JGIbmhM-3w1inivs6t9Jbr_AD2J1b0cb
+
+
+Extract the data from the folder and place the two .csv files in this "Data" folder
